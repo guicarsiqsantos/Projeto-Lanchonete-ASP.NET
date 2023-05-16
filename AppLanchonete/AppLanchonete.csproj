@@ -6,4 +6,10 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Include="wwwroot\imagens\carousel11.jpg" />
+    <None Include="wwwroot\imagens\carousel12.jpg" />
+    <None Include="wwwroot\imagens\carousel13.jpg" />
+  </ItemGroup>
+
 </Project>
